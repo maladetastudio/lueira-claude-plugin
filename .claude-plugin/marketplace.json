@@ -1,0 +1,17 @@
+{
+  "name": "lueira",
+  "owner": {
+    "name": "Lueira",
+    "url": "https://lueira.com"
+  },
+  "metadata": {
+    "description": "Lueira workflows for Claude: business reports, customer management and catalogue and inventory work."
+  },
+  "plugins": [
+    {
+      "name": "lueira",
+      "source": "./",
+      "description": "Read Lueira business data, manage customers and the catalogue, and adjust shop stock through the Lueira MCP server."
+    }
+  ]
+}

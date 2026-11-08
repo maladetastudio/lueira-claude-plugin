@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lueira": {
+      "type": "http",
+      "url": "https://api.lueira.com/api/v1/mcp"
+    }
+  }
+}
