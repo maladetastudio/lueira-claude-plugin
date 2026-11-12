@@ -1,12 +1,13 @@
 {
   "name": "lueira",
-  "version": "0.1.12541",
+  "version": "0.1.12653",
   "description": "Read Lueira business data, manage customers and the catalogue, and adjust shop stock through the Lueira MCP server.",
   "author": {
     "name": "Lueira",
     "url": "https://lueira.com"
   },
   "homepage": "https://lueira.com/en/",
+  "privacyPolicyUrl": "https://lueira.com/en/legal/privacy/",
   "repository": "https://github.com/maladetastudio/lueira-claude-plugin",
   "license": "SEE LICENSE IN LICENSE",
   "keywords": [
